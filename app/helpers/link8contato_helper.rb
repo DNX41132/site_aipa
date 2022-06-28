@@ -1,0 +1,2 @@
+module Link8contatoHelper
+end

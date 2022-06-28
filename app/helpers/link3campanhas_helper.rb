@@ -1,0 +1,2 @@
+module Link3campanhasHelper
+end

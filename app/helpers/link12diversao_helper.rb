@@ -1,0 +1,2 @@
+module Link12diversaoHelper
+end

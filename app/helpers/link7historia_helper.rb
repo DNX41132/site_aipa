@@ -1,0 +1,2 @@
+module Link7historiaHelper
+end

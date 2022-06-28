@@ -1,0 +1,2 @@
+module Link2denunciaHelper
+end
